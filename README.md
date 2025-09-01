@@ -10,12 +10,8 @@ This repository contains the final project for APAN-5310 developed by Group 5. T
 
 4. Metabase-dashboard.pdf contains exported dashboard visualizations from Metabase
 
-5. Pictures used in Presentation.pdf contains images used in the final presentation
+5. Presentation.pdf contains final presentation slides
 
-6. Presentation.pdf contains final presentation slides
+6. project_queries.ipynb contains SQL query executions and analysis
 
-7. data_generation.ipynb contains notebook to generate synthetic datasets and ETL process
-
-8. project_queries.ipynb contains SQL query executions and analysis
-
-9. table_schema.sql contains SQL script for database schema creation
+7. table_schema.sql contains SQL script for database schema creation
